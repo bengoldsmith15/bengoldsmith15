@@ -9,7 +9,6 @@ Readme · MD
   <a href="https://www.linkedin.com/in/ben-goldsmith-90b70a375"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bengoldsmith15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
----
  
 ### 🧠 About me
 - 🎓 Studying A-levels in **Maths**, **Further Maths**, **Physics** and **Computer Science**
